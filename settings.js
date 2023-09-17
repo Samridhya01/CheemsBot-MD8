@@ -25,11 +25,11 @@ global.owner = ['919339619072'] //ur owner number
 global.ownernomer = "919339619072" //ur owner number2
 global.ownername = "▀▄▀▄▀▄ 👑 𝕯𝖊𝖇𝖆𝖘𝖍𝖎𝖘 👑 ▄▀▄▀▄▀" //ur owner name
 global.ytname = "No YT Channel" //ur yt chanel name
-global.socialm = "Facebook: https://m.facebook.com/sipra.dey.56863?eav=Afb2qlmDARGlyfFuWlHtoN-ViXMvWYBRUIq6ureAnk1eCn7zahlm5YiQjgTsSIw3uv0&paipv=0" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.socialm = "Facebook: https://www.facebook.com/sipra.dey.56863" //ur github or insta name
+global.location = "Nalhati, Birbhum, WB, INDIA" //ur location
 
 //new
-global.botname = "░▒▓█►─═ 𝕯𝖊𝖇𝖆𝖘𝖍𝖎𝖘 𝕮𝖍𝖊𝖊𝖒𝖘 𝕸𝖚𝖑𝖙𝖎𝖉𝖊𝖛𝖎𝖈𝖊 𝕭𝕺𝕿 ═─◄█▓▒░"
+global.botname = "░▒▓█►─𝕯𝖊𝖇𝖆𝖘𝖍𝖎𝖘 𝕮𝖍𝖊𝖊𝖒𝖘 𝕸𝖚𝖑𝖙𝖎𝖉𝖊𝖛𝖎𝖈𝖊 𝕭𝕺𝕿─◄█▓▒░"
 global.ownernumber = '916909137213'
 global.ownername = '▀▄▀▄▀▄ 👑 𝕯𝖊𝖇𝖆𝖘𝖍𝖎𝖘 👑 ▄▀▄▀▄▀'
 global.ownerNumber = ["919339619072@s.whatsapp.net"]
