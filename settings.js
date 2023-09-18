@@ -30,7 +30,7 @@ global.location = "Nalhati, Birbhum, WB, INDIA" //ur location
 
 //new
 global.botname = "░▒▓█►─𝕯𝖊𝖇𝖆𝖘𝖍𝖎𝖘 𝕮𝖍𝖊𝖊𝖒𝖘 𝕸𝖚𝖑𝖙𝖎𝖉𝖊𝖛𝖎𝖈𝖊 𝕭𝕺𝕿─◄█▓▒░"
-global.ownernumber = '916909137213'
+global.ownernumber = '919339619072'
 global.ownername = '▀▄▀▄▀▄ 👑 𝕯𝖊𝖇𝖆𝖘𝖍𝖎𝖘 👑 ▄▀▄▀▄▀'
 global.ownerNumber = ["919339619072@s.whatsapp.net"]
 global.ownerweb = "https://github.com/Debashis121212/CheemsBot-MD8/"
